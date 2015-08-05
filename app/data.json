@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Stefan R. aus Hamm",
+        "permalink": "https://soundcloud.com/correctiv_org/1-stefan-r-aus-hamm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8167724609375,
+          51.68958500811337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Oliver B. aus Paderborn",
+        "permalink": "https://soundcloud.com/correctiv_org/2-oliver-b-aus-paderborn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.734130859375,
+          51.72702815704774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Silke U. aus Hamm",
+        "permalink": "https://soundcloud.com/correctiv_org/3-silke-u-aus-hamm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.833251953125,
+          51.691287641824474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Emil O. aus Schweden",
+        "permalink": "https://soundcloud.com/correctiv_org/4-emil-o-aus-schweden",
+        "zoom": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.436523437499998,
+          57.088515327886505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Mike L. aus England",
+        "permalink": "https://soundcloud.com/correctiv_org/5-mike-l-aus-england",
+        "zoom": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2634277343749998,
+          52.6130549393468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Terraristika Hamm",
+        "permalink": "https://soundcloud.com/correctiv_org/6-terraristika-hamm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.826385498046875,
+          51.687030937462666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Andreas K. aus Enger",
+        "permalink": "https://soundcloud.com/correctiv_org/7-andreas-k-aus-enger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.56109619140625,
+          52.13685974852633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Oliver B. aus Paderborn",
+        "permalink": "https://soundcloud.com/correctiv_org/8-oliver-b-aus-paderborn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.74786376953125,
+          51.72872938200587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Willy S. aus Holland",
+        "permalink": "https://soundcloud.com/correctiv_org/9-willy-s-aus-holland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.66094970703125,
+          52.305119921105245
+        ]
+      }
+    }
+  ]
+}

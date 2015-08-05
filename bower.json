@@ -1,0 +1,21 @@
+{
+  "name": "mh17-travelogue",
+  "version": "0.0.0",
+  "homepage": "https://github.com/correctiv/mh17-travelogue",
+  "authors": [
+    "Stefan Wehrmeyer <mail@stefanwehrmeyer.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "~0.7.3"
+  }
+}
